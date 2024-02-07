@@ -28,5 +28,5 @@
 <li><b>Clone the repository:</b></li>
 <code>git clone https://github.com/prasannavb/Tic-Tac-Toe.git</code><br/>
 <li><b>Navigate to the project directory:</b></li>
-<code>cd tic-tac-toe</code><br/>
+<code>cd Contact-Form</code><br/>
 <li>Open the <code>index.html</code> file in your web browser.</li>
